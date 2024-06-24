@@ -1,5 +1,25 @@
-<h1 align="center">Atlas Plugins</h1>
+<h1 align="center">🎓 Atlas Plugins 🎓</h1>
 
+
+📋- WHO ARE ATLAS PLUGINS?
+---
+```
+Atlas Plugins is a small team of two friends who have created 
+custom plugins for their privet hosted SMP server for us and
+are friends to play and enjoy the game more with more goals 
+to work towards adding funny but exciting things to the 
+game to make it more enjoyable.
+```
+
+📢- WHY YOU MAKING THE PLUGINS PUBLIC?
+---
+```
+We are making the plugins public because 
+we think other people who are creating SMP servers 
+for their friends to play or for a public server 
+will enjoy the plugins we have created too 
+to make their SMP server a little more exciting. 
+```
 <!--
 
 **Here are some ideas to get you started:**
